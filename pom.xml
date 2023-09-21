@@ -18,7 +18,7 @@
          <sonar.login>admin</sonar.login>
          <sonar.password>admin123</sonar.password>
          -->
-         <sonar.token>squ_6e7079adfb0f1b3fd2f13ce7f6f6aff7fb135088</sonar.token>
+         <sonar.token>squ_fba45ea396254338443b86d4a62594cb01bf7dcf</sonar.token>
     </properties>
 
     <dependencies>
