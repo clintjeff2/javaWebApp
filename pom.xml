@@ -56,9 +56,9 @@
                      <id>nexus</id>
                      <url>http://localhost:8081/repository/jspJavaWebProject/</url>
             </repository>
-            <snapshotsRepository>
+            <snapshotRepository>
                      <id>nexus</id>
                      <url>http://localhost:8081/repository/jspJavaWebProject_snapshots/</url>
-            </snapshotsRepository>
+            </snapshotRepository>
    </distributionManagement>
 </project>
