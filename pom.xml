@@ -51,4 +51,14 @@
             </plugin>
         </plugins>
     </build>
+   <distributionManagement>
+            <respository>
+                     <id>nexus</id>
+                     <url>http://localhost:8081/repository/jspJavaWebProject/</url>
+            </respository>
+            <snapshotsRepository>
+                     <id>nexus</id>
+                     <url>http://localhost:8081/repository/jspJavaWebProject_snapshots/</url>
+            </snapshotsRepository>
+   </distributionManagement>
 </project>
